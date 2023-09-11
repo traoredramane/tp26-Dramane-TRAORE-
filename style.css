@@ -1,0 +1,25 @@
+.fro h1{
+    padding-bottom: 50px;
+    text-align: center;
+    color: brown;
+   
+}
+
+.far{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.yar{
+    margin-left: px;
+}
+
+.doc{
+    padding-bottom: 25px;
+}
+
+#erreur{
+    background-color: #c00;
+    color: beige;
+    padding: 10px;
+}
